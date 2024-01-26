@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gstrazzi
 - 👀 Curioso de como os  codigos funcionam
-- 🌱 Logica da Programação
+- 🌱 Logica de Programação
 - 💞️ toda ajuda é bem vinda
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
